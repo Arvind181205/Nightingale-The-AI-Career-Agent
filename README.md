@@ -1,6 +1,7 @@
 🚀 AI Career Agent
 An autonomous, multi-agent system designed to automate the initial phases of a job hunt. This agent finds relevant job postings, analyzes them against a user's resume, and crafts tailored application materials like resume suggestions and cover letters.
-![Uploading Screenshot (242).png…]()
+<img width="1920" height="1080" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/3379298a-1c67-48d2-be2b-10fe3c94e45d" />
+
 
 
 ## How It Works
