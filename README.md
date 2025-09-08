@@ -1,5 +1,3 @@
-Of course. Here is a professional README.md template tailored for your AI Career Agent project. You can copy and paste this into your README.md file on GitHub and fill in the details.
-
 🚀 AI Career Agent
 An autonomous, multi-agent system designed to automate the initial phases of a job hunt. This agent finds relevant job postings, analyzes them against a user's resume, and crafts tailored application materials like resume suggestions and cover letters.
 
