@@ -1,5 +1,7 @@
 🚀 AI Career Agent
 An autonomous, multi-agent system designed to automate the initial phases of a job hunt. This agent finds relevant job postings, analyzes them against a user's resume, and crafts tailored application materials like resume suggestions and cover letters.
+![Uploading Screenshot (242).png…]()
+
 
 ## How It Works
 This project is built on a multi-agent graph architecture using LangGraph. A master orchestrator delegates tasks to specialized agents, creating a robust and scalable workflow.
