@@ -1,6 +1,6 @@
 🚀 AI Career Agent
 An autonomous, multi-agent system designed to automate the initial phases of a job hunt. This agent finds relevant job postings, analyzes them against a user's resume, and crafts tailored application materials like resume suggestions and cover letters.
-
+DEMO LINK: https://nightingale-the-ai-career-agent.streamlit.app/
 <img width="1856" height="887" alt="Screenshot (243)" src="https://github.com/user-attachments/assets/3e56ac18-c074-481b-9a5f-dfa49a5df676" />
 
 
